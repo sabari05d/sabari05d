@@ -90,7 +90,7 @@ A full-scale enterprise platform with multi-tenant architecture, role-based acce
 - ✅ Razorpay payment gateway integration
 - ✅ WhatsApp business automation
 
-**Status:** In Production | **Clients:** 15+ | **Daily Orders:** 500+
+**Status:** In Production | **Daily Orders:** 500+
 
 ---
 
@@ -107,7 +107,7 @@ Cross-platform habit tracking application with seamless sync between web and And
 - ✅ Self-hosted APK distribution
 - ✅ 500+ users, 10K+ habit logs
 
-**Status:** Live | **Users:** 500+ | **App Store:** Self-hosted
+**Status:** Live | **App Store:** Self-hosted
 
 ---
 
@@ -162,7 +162,7 @@ Private, locally-hosted developer productivity assistant running LLMs without ex
 
 - 🚀 **Equity Research Analyst Platform** - Full-stack automated investment research tool with conviction scoring and AI-powered analysis
 - 📚 **Open Source Contributions** - Contributing to trading and automation libraries
-- 🎓 **BCA Correspondence** - Jain University (Expected June 2027)
+- 🎓 **BCA Correspondence** - Jain University (Expected July 2028)
 - 💡 **System Design Mastery** - Deep diving into scalable architecture patterns
 
 ---
@@ -204,7 +204,7 @@ Private, locally-hosted developer productivity assistant running LLMs without ex
 
 | Credential | Institution | Year |
 |-----------|-------------|------|
-| **BCA (Correspondence)** | Jain University | 2025–2027 |
+| **BCA (Correspondence)** | Jain University | 2025–2028 |
 | **Java Full Stack Development** | Jspiders, Bangalore | 2024 |
 | **AWS Academy Cloud Foundations** | AWS Academy | 2022 |
 | **Diploma in E&C** | Sakthi Polytechnic College | 2020–2023 |
@@ -242,7 +242,7 @@ Current Streak:               🔥 Active
 
 ## 🎯 Open to Opportunities
 
-- **Senior Full-Stack Developer roles**
+- **Full-Stack Developer roles**
 - **Backend Engineering positions**
 - **Tech Lead / Architect roles**
 - **Startup partnerships** (flexible arrangements welcome)
