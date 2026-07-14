@@ -148,11 +148,11 @@ Private, locally-hosted developer productivity assistant running LLMs without ex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabari05d&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabari05d&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF)](https://github.com/sabari05d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabari05d&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabari05d&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/sabari05d)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabari05d&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabari05d&theme=dark&hide_border=true&background=0D1117&stroke=79C0FF&ring=58A6FF&fire=FF6B6B)](https://github.com/sabari05d)
 
 </div>
 
