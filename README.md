@@ -160,8 +160,6 @@ Fully local developer-productivity assistant: Whisper for voice commands, Llama 
 
 </div>
 
-> **Note on the snake animation:** it needs a small GitHub Action running in your profile repo (`sabari05d/sabari05d`) to generate that SVG on a schedule. I've included the workflow file below — drop it in `.github/workflows/snake.yml` in that repo and it'll auto-generate on every push / daily.
-
 ---
 
 ## 💡 What I Bring Beyond the Stack
