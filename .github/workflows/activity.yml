@@ -1,0 +1,28 @@
+name: Daily Activity
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # Runs once daily (~11:30 PM IST)
+  workflow_dispatch: {}
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Random commits
+        run: |
+          git config user.name "sabari05d"
+          git config user.email "nsabarinathan.in@gmail.com"
+
+          # Generates a random number between 1 and 3 (guaranteed at least 1)
+          COUNT=$(( (RANDOM % 3) + 1 ))
+
+          for i in $(seq 1 $COUNT); do
+            echo "$(date -u +%Y-%m-%dT%H:%M:%S) - update" >> activity.log
+            git add activity.log
+            git commit -m "chore: daily maintenance"
+          done
+
+          git push
