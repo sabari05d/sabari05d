@@ -1,15 +1,24 @@
-# 👋 Hey, I'm Sabarinathan D
-
 <div align="center">
 
-### **Full-Stack Developer** | **ERP & Fintech Specialist** | **Building Scalable Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Sabarinathan%20D&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Systems%20That%20Matter&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Full-Stack+Developer+%40+Salesqueen;ERP+%26+Fintech+Systems+Engineer;2%2B+Years+Shipping+Production+Code;Self-Taught.+Fast+Learner.+Builder." alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarinathan-d)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabari05d)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarinathan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsabarinathan.in@gmail.com)
 
-**1+ Year Building Production Systems** | **React · Laravel · Python** | **ERP · Fintech · Trading Terminals**
+<img src="https://komarev.com/ghpvc/?username=sabari05d&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+> ### *"Just give me one chance and a little time — I'll figure it out."*
+> **Trying to do better. Every day, every commit.**
 
 </div>
 
@@ -17,250 +26,192 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** at **Salesqueen Software Solutions** specializing in building **enterprise-grade ERP systems**, **fintech platforms**, and **algorithmic trading terminals**. I take ideas from concept to production, architecting scalable systems that handle thousands of daily transactions.
+I'm a **Full-Stack Developer at Salesqueen Software Solutions**, where I architect and ship **enterprise ERP systems**, **fintech platforms**, and **algorithmic trading tools** — production software running 500+ daily orders for 15+ businesses, not side projects.
 
-**What I Do:**
-- 🏗️ Design and ship **production-ready full-stack applications**
-- 💰 Build **payment-integrated platforms** (Razorpay, WhatsApp automation)
-- 📊 Engineer **real-time dashboards** and **analytics systems**
-- 🤖 Develop **AI-powered automation tools** (Local LLMs, Ollama)
-- 📱 Create **cross-platform apps** (React → Android via Capacitor)
+I started as an intern and was promoted to full-time within **6 months** — I learn fast because I have to, and I ship because half-finished doesn't count.
 
-**Currently:** Full-time developer at Salesqueen | Pursuing BCA (Correspondence) at Jain University
+- 🏗️ Architect and ship **production-grade full-stack systems**, end to end
+- 💰 Build **payment-integrated platforms** — Razorpay, WhatsApp Business API automation
+- 📊 Engineer **real-time dashboards** on React + WebSockets
+- 🤖 Build **local, private AI tooling** (Ollama, Whisper) — no dependency on paid APIs
+- 📱 Ship **cross-platform apps** (React → Android via Capacitor)
+- 📈 Research and build **quantitative trading systems** independently
+
+**Currently:** Full Stack Developer @ Salesqueen · Pursuing BCA (Correspondence), Jain University · Building an equity research platform on the side
 
 ---
 
 ## 💻 Tech Stack
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### **Databases & Services**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Currently Leveling Up
+![Testing](https://img.shields.io/badge/Testing-Jest%20%2F%20PHPUnit%20%2F%20Pytest-25D366?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-In%20Progress-orange?style=for-the-badge)
 
 ---
 
-## 🎯 Key Achievements
+## 🎯 Impact, Not Just Activity
 
 | Achievement | Impact |
-|------------|--------|
-| **B2B ERP Suite** | Architected enterprise platform serving **15+ clients**, processing **500+ daily orders** |
-| **Mix/Recipe Calculator** | Built automated system handling **1000+ batch calculations/day** with **99.2% accuracy** |
-| **P&L Dashboards** | Engineered real-time analytics, reducing reconciliation time by **60%** |
-| **Payment Integration** | Integrated Razorpay + WhatsApp automation for **real-time order notifications** |
-| **Cross-Platform App** | Built **500+ user** Habit Tracker with web/mobile sync using React + Capacitor |
-| **Trading Terminal** | Developed market intelligence system with **5+ technical indicators** for quantitative strategies |
-| **Local AI Assistant** | Built JARVIS-Lite eliminating external API calls, **reducing operational costs** |
+|---|---|
+| **B2B ERP Suite** | Architected & shipped enterprise platform serving **15+ clients**, processing **500+ daily orders** |
+| **Mix/Recipe Calculator** | Automated system handling **1,000+ batch calculations/day** at **99.2% accuracy** |
+| **Real-Time P&L Dashboards** | Built on React + WebSockets, cut reconciliation time by **60%** |
+| **Payment & Notification Layer** | Razorpay + WhatsApp Business API automation for **15+ client businesses** |
+| **Habit Tracker** | 500+ users, 10K+ logs, web ↔ Android sync via Supabase + Capacitor |
+| **Sentinel Trading Terminal** | Solo-built market intelligence system with custom technical-analysis logic |
+| **JARVIS-Lite** | Fully local AI assistant (Ollama + Whisper) — **zero external API cost** |
+| **Career velocity** | Intern → Full-Time in **6 months** at Salesqueen |
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏢 **B2B Manufacturing & ERP Suite** (Production)
-**Tech Stack:** React.js · Laravel · PostgreSQL · Razorpay · WhatsApp API
+### 🏢 B2B Manufacturing & ERP Suite — *Production*
+**Stack:** React.js · Laravel · CodeIgniter · MySQL · Razorpay · WhatsApp API
 
-A full-scale enterprise platform with multi-tenant architecture, role-based access controls, real-time dashboards, and automated workflows.
+Multi-tenant enterprise platform with role-based Admin/Staff/Client portals, real-time P&L tracking, vendor indent management, and an automated recipe/mix calculator handling biochemical constraints.
 
-**Features:**
-- ✅ Admin/Staff/Client portals with granular permissions
-- ✅ Real-time P&L tracking and vendor indent management
-- ✅ Automated mix/recipe calculator (biochemical constraints)
-- ✅ Push/Email notification triggers
-- ✅ Razorpay payment gateway integration
-- ✅ WhatsApp business automation
-
-**Status:** In Production | **Daily Orders:** 500+
+`500+ daily orders` · `15+ clients` · `In Production`
 
 ---
 
-### 📱 **Habit Tracker & Productivity App** ([Live](https://trackerxx.vercel.app) | [GitHub](https://github.com/sabari05d))
-**Tech Stack:** React.js · Supabase · PostgreSQL · Capacitor
+### 📊 Sentinel — Algorithmic Trading & Market Intelligence Terminal
+**Stack:** Python · Technical Analysis · Data Visualization
+[Code](https://github.com/sabari05d/sentinal_iq_swing_trade) · [Live](https://thesentinaliq.vercel.app)
 
-Cross-platform habit tracking application with seamless sync between web and Android versions.
-
-**Features:**
-- ✅ Web app (React + Tailwind)
-- ✅ Android app (packaged via Capacitor)
-- ✅ Real-time data sync via Supabase
-- ✅ JWT authentication
-- ✅ Self-hosted APK distribution
-- ✅ 500+ users, 10K+ habit logs
-
-**Status:** Live | **App Store:** Self-hosted
+Custom research terminal for market regime detection and quantitative strategy refinement, with signal-based logic supporting position sizing and trade execution decisions.
 
 ---
 
-### 📊 **Sentinel: Algorithmic Trading Terminal** ([GitHub](https://github.com/sabari05d/sentinal-bot) | [Demo](link-to-demo))
-**Tech Stack:** Python · Technical Analysis Libraries · Plotly · Pandas
+### 📱 Habit Tracker & Productivity App
+**Stack:** React.js · Supabase · PostgreSQL · Capacitor
+[Code](https://github.com/sabari05d/trackerX) · [Live](https://trackerxx.vercel.app)
 
-Specialized research terminal for identifying market regimes and refining quantitative trading strategies.
+Cross-platform habit tracker with real-time web/Android sync, JWT auth, and a self-managed APK build/distribution pipeline.
 
-**Features:**
-- ✅ Technical analysis algorithms (MA, RSI, MACD, Bollinger Bands)
-- ✅ Market regime detection
-- ✅ Position sizing assistance
-- ✅ Real-time data processing
-- ✅ Backtesting capabilities
-- ✅ Interactive visualization dashboards
-
-**Status:** Production | **Focus:** Quantitative strategy research
+`500+ users` · `10K+ habit logs`
 
 ---
 
-### 🤖 **JARVIS-Lite: Voice-Driven Local AI Assistant** ([GitHub](https://github.com/sabari05d/jarvis-lite))
-**Tech Stack:** Python · Ollama · Llama 3.2 · Whisper · FastAPI
+### 🤖 JARVIS-Lite — Voice-Driven Local AI Assistant
+**Stack:** Python · Ollama · Llama 3.2 · Whisper · Laravel · MySQL
+[Code](https://github.com/sabari05d/ai-assistant)
 
-Private, locally-hosted developer productivity assistant running LLMs without external dependencies.
-
-**Features:**
-- ✅ Voice command processing (Whisper)
-- ✅ Local LLM inference (Llama 3.2 via Ollama)
-- ✅ Automated shell script execution
-- ✅ Zero external API calls
-- ✅ Developer environment automation
-
-**Status:** Production | **Benefit:** Reduced API costs, enhanced privacy
+Fully local developer-productivity assistant: Whisper for voice commands, Llama 3.2 via Ollama for local inference, Laravel/MySQL admin dashboard for config and logs — zero paid API dependency.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabari05d&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=79C0FF)](https://github.com/sabari05d)
+<img src="https://ghchart.rshah.org/38BDF8/sabari05d" alt="Contribution Calendar" width="100%" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabari05d&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/sabari05d)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sabari05d&theme=dark&hide_border=true&background=0D1117&stroke=79C0FF&ring=58A6FF&fire=FF6B6B)](https://github.com/sabari05d)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari05d&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sabari05d&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabari05d&layout=compact&theme=dark&hide_border=true&hide=html,css&title_color=38BDF8" alt="Top Languages" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sabari05d&theme=darkhub&no-frame=true&column=4&margin-w=8" alt="Trophies" width="49%"/>
+
+<br/><br/>
+
+<!-- 🐍 Snake contribution animation — requires a one-time GitHub Actions setup, see note below -->
+<img src="https://raw.githubusercontent.com/sabari05d/sabari05d/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
----
-
-## 🔧 What I'm Currently Working On
-
-- 🚀 **Equity Research Analyst Platform** - Full-stack automated investment research tool with conviction scoring and AI-powered analysis
-- 📚 **Open Source Contributions** - Contributing to trading and automation libraries
-- 🎓 **BCA Correspondence** - Jain University (Expected July 2028)
-- 💡 **System Design Mastery** - Deep diving into scalable architecture patterns
+> **Note on the snake animation:** it needs a small GitHub Action running in your profile repo (`sabari05d/sabari05d`) to generate that SVG on a schedule. I've included the workflow file below — drop it in `.github/workflows/snake.yml` in that repo and it'll auto-generate on every push / daily.
 
 ---
 
-## 💡 Core Competencies
+## 💡 What I Bring Beyond the Stack
 
-### **Full-Stack Development**
-- End-to-end application architecture from concept to production
-- Multi-tier system design with scalability in mind
-- Database optimization and query performance tuning
+**Technical**
+- End-to-end ownership — I've taken systems from a blank repo to 500+ daily production transactions
+- Fast ramp-up on unfamiliar codebases (proven: promoted in 6 months after ramping on a live ERP)
+- Comfortable working solo *and* cross-functionally with non-technical stakeholders
+- Debugging and optimizing legacy systems, not just building greenfield
 
-### **Backend Engineering**
-- RESTful API design and implementation
-- Database schema design (PostgreSQL, MySQL)
-- Business logic implementation and workflow automation
-- Integration with third-party services (Razorpay, WhatsApp, Ollama)
+**How I work**
+- **Self-directed learner** — if I don't know something, I go learn it, not avoid it
+- **Ownership over excuses** — I'd rather ship a working version and iterate than wait for perfect
+- **Direct communicator** — I'd rather tell you the real timeline than a comfortable one
+- **Builder mindset** — I default to building systems that scale, not one-off fixes
 
-### **Frontend Development**
-- Modern React applications with hooks and state management
-- Responsive design with Tailwind CSS
-- Real-time dashboards and data visualization
-- Cross-platform mobile development (Capacitor)
+---
 
-### **DevOps & Deployment**
-- AWS EC2, S3, RDS deployment
-- Docker containerization
-- CI/CD pipelines (GitHub Actions)
-- Database migration and scaling
+## 🔧 Currently Building
 
-### **Domain Expertise**
-- 💰 **Fintech:** Payment integration, transaction handling, real-time alerts
-- 📊 **ERP Systems:** Complex order workflows, inventory management, multi-tenant architecture
-- 📈 **Algorithmic Trading:** Technical analysis, market data processing, strategy backtesting
-- 🤖 **AI/LLMs:** Local model deployment, voice processing, automation
+- 🚀 **Equity Research Analyst Platform** — automated investment research tool with conviction scoring and AI-powered analysis
+- 📚 Contributing to open-source trading & automation libraries
+- 🎓 BCA (Correspondence), Jain University — *Expected 2028*
+- 🧠 Deepening system design and distributed architecture fundamentals
 
 ---
 
 ## 🎓 Education & Certifications
 
 | Credential | Institution | Year |
-|-----------|-------------|------|
-| **BCA (Correspondence)** | Jain University | 2025–2028 |
-| **Java Full Stack Development** | Jspiders, Bangalore | 2024 |
+|---|---|---|
+| **BCA (Correspondence)** | Jain University, Bengaluru | 2025 – 2028 |
+| **Java Full Stack Development** | JSpiders, Bengaluru | 2023 – 2024 |
 | **AWS Academy Cloud Foundations** | AWS Academy | 2022 |
-| **Diploma in E&C** | Sakthi Polytechnic College | 2020–2023 |
+| **Diploma in Electronics & Communication** | Sakthi Polytechnic College, Erode | 2020 – 2023 |
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
-- 🚀 **Building scalable systems** that solve real problems
-- 💬 **Collaborating** on full-stack projects
-- 🧠 **Learning** from experienced engineers
-- 🔗 **Networking** with developers, CTOs, and founders
-
-**Reach out:**
-- 📧 Email: [nsabarinathan.in@gmail.com](mailto:nsabarinathan.in@gmail.com)
-- 🔗 LinkedIn: [Sabarinathan D](https://www.linkedin.com/in/sabarinathan-d)
-- 💼 Portfolio: [sabarinathan.vercel.app](https://sabarinathan.vercel.app)
-- ☎️ Phone: +91 63802 86191
-
----
-
-## 📊 Quick Highlights
-
-```
-Lines of Code Written:        50,000+
-Projects Shipped:             10+
-Clients Served:               15+
-Daily Transactions Handled:   500+
-GitHub Contributions:         250+
-Current Streak:               🔥 Active
-```
-
----
-
-## 🎯 Open to Opportunities
-
-- **Full-Stack Developer roles**
-- **Backend Engineering positions**
-- **Tech Lead / Architect roles**
-- **Startup partnerships** (flexible arrangements welcome)
-
 <div align="center">
 
-### "I don't just write code. I build systems that matter."
+[![Email](https://img.shields.io/badge/Email-nsabarinathan.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsabarinathan.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabarinathan_D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarinathan-d)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sabarinathan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarinathan.vercel.app)
 
-**Let's build something amazing together** 🚀
+<br/>
 
-[View My Portfolio](https://sabarinathan.vercel.app) • [Check My Work](https://github.com/sabari05d) • [Get in Touch](mailto:nsabarinathan.in@gmail.com)
+### *"I don't just write code. I build systems that matter — and I'm always trying to do better."*
 
-</div>
-
----
-
-<div align="center">
-
-**Last Updated:** July 2026 | **Actively Looking** ✅
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=100&section=footer" width="100%"/>
 
 </div>
