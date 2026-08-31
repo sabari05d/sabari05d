@@ -13,13 +13,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarinathan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsabarinathan.in@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=sabari05d&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/>
 
-> ### _"Just give me one chance and a little time — I'll figure it out."_
->
-> **Trying to do better. Every day, every commit.**
+**Trying to do better. Every day, every commit.**
 
 </div>
 
@@ -46,11 +42,11 @@ I started as an intern and was promoted to full-time within **6 months** — I l
 
 ### Languages
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
@@ -63,9 +59,9 @@ I started as an intern and was promoted to full-time within **6 months** — I l
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -220,7 +216,7 @@ Fully local developer-productivity assistant: Whisper for voice commands, Llama 
 
 <br/>
 
-### _"I don't just write code. I build systems that matter — and I'm always trying to do better."_
+### _"I don't just write code. I build systems that matter."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=100&section=footer" width="100%"/>
 
